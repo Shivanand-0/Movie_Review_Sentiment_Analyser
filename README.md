@@ -70,6 +70,3 @@ The project features a clean, interactive GUI deployed using Gradio. Users can i
 * NLTK (Natural Language Toolkit for Preprocessing)
 * Gradio (GUI Framework)
 * Pandas, NumPy, Matplotlib, Seaborn (Data Manipulation & Visualization)
-
-
-<img width="1918" height="972" alt="image" src="https://github.com/user-attachments/assets/f8db390f-ee61-4953-8c6f-14c76b780a15" />
