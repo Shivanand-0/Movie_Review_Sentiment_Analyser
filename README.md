@@ -1,5 +1,6 @@
 # 🎬 Movie Review Sentiment Analysis
 
+## Deployment link: [svont/movie-sentiment-analyzer](https://huggingface.co/spaces/svont/movie-sentiment-analyzer)
 ## 📌 Project Overview
 This project is an end-to-end Natural Language Processing (NLP) machine learning pipeline designed to classify movie reviews as either **Positive** or **Negative**. It includes comprehensive text preprocessing, the training and evaluation of multiple classification models, and a user-friendly Graphical User Interface (GUI) for real-time sentiment prediction.
 
