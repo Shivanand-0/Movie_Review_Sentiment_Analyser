@@ -28,9 +28,11 @@ The models were strictly evaluated and compared based on four key metrics:
 * **F1-Score:** The harmonic mean of precision and recall.
 
 *Visual comparisons of these metrics can be found in the repository, including a **Performance Heatmap** and **Metric Bar Charts** (`
+
 <img width="523" height="292" alt="image" src="https://github.com/user-attachments/assets/cd4d11fd-b380-4b1b-b527-ee6f12231cad" />
 <img width="1348" height="672" alt="image" src="https://github.com/user-attachments/assets/52c46859-078f-45ea-b3e7-1a7281384910" />
 <img width="1041" height="598" alt="image" src="https://github.com/user-attachments/assets/afd96835-2886-4c3d-bd43-cc07289ef54d" />
+
 `).*
 
 ## 🏆 Best Model: Support Vector Machine (SVM)
